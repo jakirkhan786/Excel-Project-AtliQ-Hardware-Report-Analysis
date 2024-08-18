@@ -78,11 +78,9 @@ Customer Net Sale Performance
 Division Level Report
 
 
-Division Level Report 
-
 Market Performance Vs Target
 
-Market Performance Vs target
+![Market Performance Vs target](https://github.com/user-attachments/assets/71735b32-af13-4049-bc83-9b0f24d6205a)
 
 Top & Bottom 5 Products
 
