@@ -73,7 +73,7 @@ Implement interactive dashboards for streamlined data tracking and decision-maki
 
 Customer Net Sale Performance
 
-Customer Net Sale Performance
+![Market Performance Vs target1](https://github.com/user-attachments/assets/4777d5ab-360a-4e1e-9039-dd6c08b6796a)
 
 Division Level Report
 
